@@ -39,8 +39,7 @@
             echo "<p>$freebie</p>";
             echo "</div>";
             
-            // Additional match example - Freebie based on purchase amount
-            $purchaseAmount = 35; // Example amount
+            $purchaseAmount = 35; 
             
             echo "<div class='promotion-box'>";
             echo "<h3>Purchase Bonus Freebies</h3>";
